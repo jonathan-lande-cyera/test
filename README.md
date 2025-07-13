@@ -6,4 +6,4 @@ Here are steps for deploying:
 
 Note: pay attention that you must have this in order to do that.
 
-For a full explanation, [view the full guide](www.example.com).
+For a full explanation, [view the full guide](https://www.example.com).
